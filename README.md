@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayman Alrashidi</h1>
+<h1 align="center"> Ayman Alrashidi</h1>
 <h3 align="center">A Computer science freash graduate</h3>
   <h3 align="left">🔭 AI & Data Enthusiast</h3>
   <h3 align="left">📊 Passionate about Data Engineering </h3>
