@@ -1,6 +1,6 @@
 <h1 align="center"> Ayman Alrashidi</h1>
 <h3 align="center">A Computer science freash graduate</h3>
-  <h3 align="left">🔭 AI &data engineer</h3>
+  <h3 align="left">🔭 AI & Data engineer</h3>
   <h3 align="left">📊 Passionate about Data Engineering </h3>
   <h3 align="left">How to reach me :ayman.arashidi@gmail.com</h3>
 
